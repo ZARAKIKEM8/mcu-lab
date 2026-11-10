@@ -1,0 +1,19 @@
+# 编译产物（每次编译都会变，不用传）
+Debug/
+Release/
+*.elf
+*.hex
+*.bin
+*.map
+*.o
+*.d
+*.su
+# CubeIDE / Eclipse 的本地配置
+.metadata/
+.settings/
+.cproject
+.project
+# 大文件
+*.zip
+*.7z
+*.mp4
